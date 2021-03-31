@@ -1,0 +1,190 @@
+*{
+    margin: 0; padding: 0;
+}
+body{
+    background-color: #f5da42;
+    
+}
+header{
+    background-color: #f5da42;
+    border-bottom: white 10px solid;
+
+}
+header a{
+    display: inline-block;
+    font-size: 5px;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: #592411;
+    padding: 5px;  
+    text-transform: uppercase;   
+    font-weight: bold;
+    background-color: white;
+    margin-bottom: 10px;
+    border-radius: 10%;
+}
+#seccionUno{
+    height: 300px;
+    width: auto;
+    background-image: url("../img/fondo.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    border-top: white 10px solid;
+    border-bottom: white 10px solid;
+    
+}
+#seccionUno h1{
+    font-family: 'Modak', cursive;
+    color: white;
+    font-size: 50px;
+    text-transform: lowercase;   
+
+}
+.rojo{
+    background-color: #c41a1a;
+    background-image: url("../img/bg-pattern.png");
+
+}
+.amarillo{
+    background-image: url("../img/bg-pattern.png");
+
+}
+#sabores{
+    width: auto;
+    height: auto;
+}
+#sabores h1{
+    font-family: 'Modak', cursive;
+    color: white;
+    font-size: 50px;
+    text-transform: lowercase;  
+}
+#sabores p{
+    font-size: 12px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+.rojo, .amarillo{
+    padding-bottom: 40px;
+}
+.rojo a{
+    background-color: white;
+    color: #c41a1a;
+    border-radius: 40%;
+    padding: 5px;
+    text-decoration: none;
+
+}
+.rojo a:hover{
+    background-color: #c41a1a;
+    color: white;
+    border-radius: 40%;
+    padding: 5px;
+    text-decoration: none;
+
+}
+.amarillo a{
+    background-color: white;
+    color: #f5da42;
+    border-radius: 40%;
+    padding: 5px;
+    text-decoration: none;
+}
+.amarillo a:hover{
+    background-color: #f5da42;
+    color: white;
+    border-radius: 40%;
+    padding: 5px;
+    text-decoration: none;
+}
+#productos{
+    background-color: white;
+    padding-bottom: 40px;
+}
+#productos h1{
+    margin-top: 40px;
+    font-family: 'Modak', cursive;
+    color: #592411;
+    font-size: 50px;
+    text-transform: lowercase;  
+}
+#productos h2, p{
+    font-family: 'Roboto', sans-serif;
+}
+#productos h2{
+    font-size: 20px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+#productos a{
+    background-color: #592411;
+    color: white;
+    border-radius: 10%;
+    padding: 5px;
+    text-decoration: none;
+    letter-spacing: 2px;
+    text-transform: uppercase;  
+
+}
+#productos a:hover{
+    background-color: white;
+    color: #592411;
+    border-radius: 10%;
+    padding: 5px;
+    text-decoration: none;
+    letter-spacing: 2px;
+    text-transform: uppercase;  
+
+}
+
+footer{
+    background-color: #592411;
+    color: white;
+    padding: 40px;
+}
+
+#seccionDos{
+    background-color: white;
+    border-top: #c41a1a 7px solid;
+    border-bottom: #c41a1a 7px solid;
+}
+
+#tienda{
+    background-color: white;
+    padding-bottom: 40px;
+}
+#tienda h1{
+    margin-top: 40px;
+    font-family: 'Modak', cursive;
+    color: #c41a1a;
+    font-size: 50px;
+    text-transform: lowercase;  
+}
+#tienda h2, p{
+    font-family: 'Roboto', sans-serif;
+}
+#tienda h2{
+    font-size: 20px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+#tienda a{
+    background-color: #592411;
+    color: white;
+    border-radius: 10%;
+    padding: 5px;
+    text-decoration: none;
+    letter-spacing: 2px;
+    text-transform: uppercase;  
+
+}
+#tienda a:hover{
+    background-color: white;
+    color: #592411;
+    border-radius: 10%;
+    padding: 5px;
+    text-decoration: none;
+    letter-spacing: 2px;
+    text-transform: uppercase;  
+
+}
